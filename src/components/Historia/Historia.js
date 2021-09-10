@@ -47,9 +47,14 @@ export default class Historia extends Component {
         showCancelButton: true,
         confirmButtonText: "Volver al comienzo",
         confirmButtonColor:"#F7BA96",
-        cancelButtonText: "Suficiente por hoy",
+        cancelButtonText: "Ir a GitHub",
         cancelButtonColor: "#83CEE4"
-    }).then((result) => {if(result.isConfirmed){this.componentWillUnmount()}})
+    }).then((result) => {
+      if (result.isConfirmed) {
+        this.componentWillUnmount();
+      } else {window.location = "https://github.com/lumurga/elige-tu-aventura"
+      }
+    });
       
     } else if (id === "A" && this.state.opcionPrevia !== "A") {
       this.setState({
