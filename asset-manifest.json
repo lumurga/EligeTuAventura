@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elige-tu-aventura/static/css/main.cb60681a.chunk.css",
-    "main.js": "/elige-tu-aventura/static/js/main.08fec963.chunk.js",
-    "main.js.map": "/elige-tu-aventura/static/js/main.08fec963.chunk.js.map",
+    "main.js": "/elige-tu-aventura/static/js/main.fea328cb.chunk.js",
+    "main.js.map": "/elige-tu-aventura/static/js/main.fea328cb.chunk.js.map",
     "runtime-main.js": "/elige-tu-aventura/static/js/runtime-main.6947f3f7.js",
     "runtime-main.js.map": "/elige-tu-aventura/static/js/runtime-main.6947f3f7.js.map",
     "static/js/2.cfe74521.chunk.js": "/elige-tu-aventura/static/js/2.cfe74521.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6947f3f7.js",
     "static/js/2.cfe74521.chunk.js",
     "static/css/main.cb60681a.chunk.css",
-    "static/js/main.08fec963.chunk.js"
+    "static/js/main.fea328cb.chunk.js"
   ]
 }
